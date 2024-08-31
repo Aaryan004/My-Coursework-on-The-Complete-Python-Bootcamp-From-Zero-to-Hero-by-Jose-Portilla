@@ -3,7 +3,6 @@ Course Files for Complete Python 3 Bootcamp Course on Udemy
 
 Copyright(©) by Pierian Data Inc.
 
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+This repository has the work I did to complete the Course Complete Python BootCamp Course by Jose Portilla
 
 Thanks!
